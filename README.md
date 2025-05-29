@@ -13,4 +13,7 @@ A collection of hands-on labs covering:
 - [AWS IAM Policy Lab](./aws-iam-policy-lab)
 - More coming soon...
 
+## Daily Progress Log
+**May 29, 2025**: Learned how to apply IAM policy using JSON script  
+**May 30, 2025**: Tested the policy using AWS CLI: `aws iam get-user-policy`
 
