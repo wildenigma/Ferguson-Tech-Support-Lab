@@ -1,7 +1,7 @@
 # AWS IAM Policy Lab
 
 This lab demonstrates creating IAM users and policies using AWS CLI.
-# AWS IAM Policy Lab
+
 
 ## 🧩 Lab Purpose
 Practice creating and applying custom IAM policies using the AWS Management Console and CLI. Goal: Understand permission boundaries, least privilege, and how to attach policies to users and roles.
@@ -34,5 +34,20 @@ Created custom IAM policy with JSON and applied it using AWS Console.
 **May 30, 2025**:  
 Tested policy using AWS CLI:  
 ```bash
-aws iam simulate-principal-policy --policy-source-arn arn:aws:iam::123456789:user/test-user --action-names s3:ListBucket
+3. Click **“Commit new file”**
+
+✅ You now have:
+- `aws-iam-policy-lab` folder
+- Cleanly formatted `README.md` that you can **update every day**
+
+---
+
+Would you like to move on now to:
+1. Uploading screenshots?
+2. Creating your **second lab** (like `aws-s3-lab`)?
+3. Setting up a sample blog post format for LinkedIn or GitHub Pages?
+
+Let’s keep going — I’m right here with you!
+
+
 
