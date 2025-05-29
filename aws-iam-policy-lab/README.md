@@ -34,20 +34,7 @@ Created custom IAM policy with JSON and applied it using AWS Console.
 **May 30, 2025**:  
 Tested policy using AWS CLI:  
 ```bash
-3. Click **“Commit new file”**
+##🧠 What I Learned
+IAM policies need correct ARN targeting.
 
-✅ You now have:
-- `aws-iam-policy-lab` folder
-- Cleanly formatted `README.md` that you can **update every day**
-
----
-
-Would you like to move on now to:
-1. Uploading screenshots?
-2. Creating your **second lab** (like `aws-s3-lab`)?
-3. Setting up a sample blog post format for LinkedIn or GitHub Pages?
-
-Let’s keep going — I’m right here with you!
-
-
-
+IAM simulation is useful for troubleshooting access issues.
