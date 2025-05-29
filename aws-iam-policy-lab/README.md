@@ -34,7 +34,10 @@ Created custom IAM policy with JSON and applied it using AWS Console.
 **May 30, 2025**:  
 Tested policy using AWS CLI:  
 ```bash
-##🧠 What I Learned
-IAM policies need correct ARN targeting.
+---
 
-IAM simulation is useful for troubleshooting access issues.
+## 🧠 What I Learned
+- IAM policies must match correct ARNs, or access will be denied.
+- The IAM simulator is a great tool for testing access before going live.
+- IAM roles and trust relationships can block access even if the policy looks correct.
+
