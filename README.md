@@ -1,4 +1,4 @@
-# Mr. Ferguson's-Tech-Support-Lab
+# Ferguson's-Tech-Support-Lab
 
 A collection of hands-on labs covering:
 
